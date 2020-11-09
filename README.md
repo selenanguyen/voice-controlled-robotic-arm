@@ -70,5 +70,6 @@ Selena Nguyen:
 o Used RoboticArm.cc and RoboticArm.h to create SSHRobotReader.cc
 - Debugged SSHRobotWriter.cc
 - Edited majority of video
-- Helped finalize and look over report prior to submission
-YouTube Link: https://youtu.be/DPbz_761SLo
+- Helped finalize and look over report prior to submission<br />
+#### YouTube Link
+https://youtu.be/DPbz_761SLo
