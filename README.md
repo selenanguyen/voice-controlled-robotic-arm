@@ -52,25 +52,5 @@ Laptop
   </tr>
 </table>
 
-#### Roles
-Ryan Corkery:
-- Wrote majority of speech recognition code
-o Researched SpeechRecognition library (specifically using google API)
-- Figured out how to set static IP addresses to ZedBoard to connect via SSH
-- Wrote makefile
-- Wrote SSHRobotWriter.cc
-- Debugged SSHRobotReader.cc
-- Wrote majority of report
-- Helped finalize and look over video<br />
-
-Selena Nguyen:
-- Developed communication standard between laptop and ZedBoard
-- Researched Paramiko library (to implement SSH connection)
-- Helped debug and tweak speech recognition code
-- Resynthesized Lab 11 hardware design to board
-o Used RoboticArm.cc and RoboticArm.h to create SSHRobotReader.cc
-- Debugged SSHRobotWriter.cc
-- Edited majority of video
-- Helped finalize and look over report prior to submission<br />
 #### YouTube Link
 https://youtu.be/DPbz_761SLo
