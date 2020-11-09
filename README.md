@@ -62,6 +62,7 @@ o Researched SpeechRecognition library (specifically using google API)
 - Debugged SSHRobotReader.cc
 - Wrote majority of report
 - Helped finalize and look over video<br />
+
 Selena Nguyen:
 - Developed communication standard between laptop and ZedBoard
 - Researched Paramiko library (to implement SSH connection)
